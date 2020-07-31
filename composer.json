@@ -12,9 +12,9 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "guzzlehttp/guzzle": "^6.2",
-        "symfony/dom-crawler": "^3.2",
-        "symfony/css-selector": "^3.2"
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/dom-crawler": "^5.1",
+        "symfony/css-selector": "^5.1"
     }, 
     "autoload": {
         "psr-4": {
